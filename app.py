@@ -17,6 +17,7 @@ cur = conn.cursor()
 
 
 
+
 # cur.execute("INSERT INTO student (name) VALUES(%s)", ("Victoria Secret",))
 
 
